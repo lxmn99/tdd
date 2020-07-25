@@ -2,7 +2,7 @@ package framework.string;
 import java.io.*;
 import java.util.*;
 
-public class stringDel {
+public class StringDel {
 
     public static void main(String[] args) throws IOException{
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
